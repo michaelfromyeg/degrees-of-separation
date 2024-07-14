@@ -7,3 +7,4 @@ A tiny Python program to calculate the degrees of separation between two Wikiped
 TO-DOs
 
 - [ ] Two-way BFS
+- [ ] Score the available links in a max heap
